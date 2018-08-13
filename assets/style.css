@@ -1,0 +1,22 @@
+.container1 {
+    background:lightskyblue;
+    width:55%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 2%;
+    border-radius: 10px;
+}
+
+.holder {
+    text-align: center;
+    background:lightseagreen;
+    border-radius: 15px;
+    padding: 5px;
+    width: 150px;
+    clear: right;
+    margin: 0;
+}
+
+/* #enemyBox {
+    text-align: center;
+} */
